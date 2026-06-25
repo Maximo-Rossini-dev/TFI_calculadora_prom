@@ -1,5 +1,9 @@
 # Calculadora de Promedios UTN
 
+## Link al Video
+
+https://www.youtube.com/watch?v=1RO7SFPq7Xw
+
 ## Descripción
 
 Este programa desarrollado en Python permite calcular el promedio de distintas materias a partir de las notas ingresadas por el usuario.
